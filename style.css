@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+.flex {
+    display: flex;
+}
+.card1 {
+    margin-right: 55px;
+    margin-left: 35px;
+    box-shadow: 0px 2px 5px red, 0px 10px 20px blue, 0px 25px 30px green, 0px 60px 50px purple, 5px 80px 80px yellow, 10px 90px 50px rgb(0, 255, 247);
+    
+}
+.card2 {
+    margin-right: 20px;
+    background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red);
+}
+.flex2 {
+    display: flex;
+}
+.flower {
+    display: flex ;
+    margin: 200px 50px 50px 250px;
+}
+.flower2 {
+    display: flex;
+    margin: 200px 50px 50px 250px;
+}
